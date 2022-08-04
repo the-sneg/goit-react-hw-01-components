@@ -1,0 +1,22 @@
+.online {
+        background-color: green;
+            width: 15px;
+            height: 15px;
+            border: 1px solid black;
+            border-radius: 50%;
+            display: block;
+            margin-right: 10px;
+}
+.ofline {
+        background-color: red;
+            width: 15px;
+            height: 15px;
+            border: 1px solid black;
+            border-radius: 50%;
+            display: block;
+            margin-right: 10px;
+}
+.item {
+    display: flex;
+    align-items: center;
+}
